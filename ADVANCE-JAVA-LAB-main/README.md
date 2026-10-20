@@ -1,5 +1,5 @@
 # ADVANCE-JAVA-LAB
-Pawan09-bit/ADVANCE-JAVA-LAB
+Paridhijanjire34-bit/ADVANCE-JAVA-LAB
 # Advanced Java Lab 🚀
 
 A collection of Advanced Java practical programs and projects developed as part of my B.Tech Computer Science Engineering learning journey.
